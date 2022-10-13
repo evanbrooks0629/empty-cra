@@ -1,4 +1,14 @@
-# Getting Started with Create React App
+# Empty-CRA
+
+A piggyback off the normal create-react-app boilerplate that lets you start with a completely empty project so you don't have to go through the work of deleting multiple files.
+
+# Getting Started with empty-cra
+
+To use this as a boilerplate for your React project, start by typing in `git clone https://github.com/evanbrooks0629/empty-cra.git <project-name>` into your terminal.
+
+Then, run `cd <project-name>` to get into the project directory, and then type `npm install` to install the necessary packages.
+
+To run the app, type `npm start` like a normal create-react-app project.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
